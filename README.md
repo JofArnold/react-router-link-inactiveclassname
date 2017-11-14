@@ -1,4 +1,4 @@
-# react-router-link-inactiveclassname
+# react-router-navlink-inactiveclassname
 A fork of react router 4's Link component that supports an `inactiveClassName` attribute.
 
 This relates to the NOFIX issue I raised on React Router's github: [TBD] strongly believe the NOFIX was an incorrect response for the following reasons:
